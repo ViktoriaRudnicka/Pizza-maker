@@ -11,7 +11,7 @@ const ingredients = {
         { name: "Bacon", price: 3, imgSrc: "img/ingredients/Meat/Bacon.jpg" },
         { name: "Beef", price: 2, imgSrc: "img/ingredients/Meat/Beef.jpg" },
         { name: "Chicken", price: 2, imgSrc: "img/ingredients/Meat/Chicken.jpg" },
-        { name: "Ham", price: 2, imgSrc: "img/img/ingredients/Meat/Ham.jpg" },
+        { name: "Ham", price: 2, imgSrc: "img/ingredients/Meat/Ham.jpg" },
         { name: "Italian salami", price: 3, imgSrc: "img/ingredients/Meat/Italian salami.jpg" },
         { name: "Minced meat", price: 3, imgSrc: "img/ingredients/Meat/Minced meat.jpg" },
         { name: "Pepperoni", price: 4, imgSrc: "img/ingredients/Meat/Pepperoni.jpg" },
