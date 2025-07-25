@@ -1,43 +1,43 @@
 const ingredients = {
     cheeses: [
-        { name: "Cheder", price: 4, imgSrc: "img/img/ingredients/Cheeses/cheder.jpg" },
-        { name: "Feta", price: 1, imgSrc: "img/img/ingredients/Cheeses/Feta.jpg" },
-        { name: "Gorgonzola", price: 1, imgSrc: "img/img/ingredients/Cheeses/Gorgonzola.jpg" },
-        { name: "Parmesan", price: 1, imgSrc: "img/img/ingredients/Cheeses/Parmesan.jpg" },
-        { name: "Ricotta", price: 3, imgSrc: "img/img/ingredients/Cheeses/Ricotta.jpg" },
-        { name: "Mozzarella", price: 3, imgSrc: "img/img/ingredients/Cheeses/Моцарелла.jpg" }
+        { name: "Cheder", price: 4, imgSrc: "img/ingredients/Cheeses/cheder.jpg" },
+        { name: "Feta", price: 1, imgSrc: "img/ingredients/Cheeses/Feta.jpg" },
+        { name: "Gorgonzola", price: 1, imgSrc: "img/ingredients/Cheeses/Gorgonzola.jpg" },
+        { name: "Parmesan", price: 1, imgSrc: "img/ingredients/Cheeses/Parmesan.jpg" },
+        { name: "Ricotta", price: 3, imgSrc: "img/ingredients/Cheeses/Ricotta.jpg" },
+        { name: "Mozzarella", price: 3, imgSrc: "img/ingredients/Cheeses/Моцарелла.jpg" }
     ],
     meats: [
-        { name: "Bacon", price: 3, imgSrc: "img/img/ingredients/Meat/Bacon.jpg" },
-        { name: "Beef", price: 2, imgSrc: "img/img/ingredients/Meat/Beef.jpg" },
-        { name: "Chicken", price: 2, imgSrc: "img/img/ingredients/Meat/Chicken.jpg" },
+        { name: "Bacon", price: 3, imgSrc: "img/ingredients/Meat/Bacon.jpg" },
+        { name: "Beef", price: 2, imgSrc: "img/ingredients/Meat/Beef.jpg" },
+        { name: "Chicken", price: 2, imgSrc: "img/ingredients/Meat/Chicken.jpg" },
         { name: "Ham", price: 2, imgSrc: "img/img/ingredients/Meat/Ham.jpg" },
-        { name: "Italian salami", price: 3, imgSrc: "img/img/ingredients/Meat/Italian salami.jpg" },
-        { name: "Minced meat", price: 3, imgSrc: "img/img/ingredients/Meat/Minced meat.jpg" },
-        { name: "Pepperoni", price: 4, imgSrc: "img/img/ingredients/Meat/Pepperoni.jpg" },
-        { name: "Sausages", price: 3, imgSrc: "img/img/ingredients/Meat/Sausages.jpg" }
+        { name: "Italian salami", price: 3, imgSrc: "img/ingredients/Meat/Italian salami.jpg" },
+        { name: "Minced meat", price: 3, imgSrc: "img/ingredients/Meat/Minced meat.jpg" },
+        { name: "Pepperoni", price: 4, imgSrc: "img/ingredients/Meat/Pepperoni.jpg" },
+        { name: "Sausages", price: 3, imgSrc: "img/ingredients/Meat/Sausages.jpg" }
     ],
     seafood: [
-        { name: "Anchovies", price: 1, imgSrc: "img/img/ingredients/Seafood/Anchovies.jpg" },
-        { name: "Salmon", price: 3, imgSrc: "img/img/ingredients/Seafood/salmon.jpg" },
-        { name: "Scallops", price: 5, imgSrc: "img/img/ingredients/Seafood/Scallops.jpg" },
-        { name: "Shrimp", price: 5, imgSrc: "img/img/ingredients/Seafood/Shrimp.jpg" },
-        { name: "Squid", price: 5, imgSrc: "img/img/ingredients/Seafood/Squid.jpg" }
+        { name: "Anchovies", price: 1, imgSrc: "img/ingredients/Seafood/Anchovies.jpg" },
+        { name: "Salmon", price: 3, imgSrc: "img/ingredients/Seafood/salmon.jpg" },
+        { name: "Scallops", price: 5, imgSrc: "img/ingredients/Seafood/Scallops.jpg" },
+        { name: "Shrimp", price: 5, imgSrc: "img/ingredients/Seafood/Shrimp.jpg" },
+        { name: "Squid", price: 5, imgSrc: "img/ingredients/Seafood/Squid.jpg" }
     ],
     veggies: [
-        { name: "Basil", price: 1, imgSrc: "img/img/ingredients/Vegetables/Basil.jpg" },
-        { name: "Broccoli", price: 1, imgSrc: "img/img/ingredients/Vegetables/Broccoli.jpg" },
-        { name: "Chili", price: 2, imgSrc: "img/img/ingredients/Vegetables/Chili.jpg" },
-        { name: "Corn", price: 2, imgSrc: "img/img/ingredients/Vegetables/Corn.jpg" },
-        { name: "Garlic", price: 1, imgSrc: "img/img/ingredients/Vegetables/Garlic.jpg" },
-        { name: "Jalapeño", price: 2, imgSrc: "img/img/ingredients/Vegetables/Jalapeño.jpg" },
-        { name: "Mushrooms", price: 3, imgSrc: "img/img/ingredients/Vegetables/Mushrooms.jpg" },
-        { name: "Mussels", price: 4, imgSrc: "img/img/ingredients/Vegetables/Mussels.jpg" },
-        { name: "Olives", price: 2, imgSrc: "img/img/ingredients/Vegetables/Olives.jpg" },
-        { name: "Onions", price: 2, imgSrc: "img/img/ingredients/Vegetables/Onions.jpg" },
-        { name: "Peppers", price: 2, imgSrc: "img/img/ingredients/Vegetables/Peppers.jpg" },
-        { name: "Spinach", price: 1, imgSrc: "img/img/ingredients/Vegetables/Spinach.jpg" },
-        { name: "Tomato", price: 2, imgSrc: "img/img/ingredients/Vegetables/tomato.jpg" }
+        { name: "Basil", price: 1, imgSrc: "img/ingredients/Vegetables/Basil.jpg" },
+        { name: "Broccoli", price: 1, imgSrc: "img/ingredients/Vegetables/Broccoli.jpg" },
+        { name: "Chili", price: 2, imgSrc: "img/ingredients/Vegetables/Chili.jpg" },
+        { name: "Corn", price: 2, imgSrc: "img/ingredients/Vegetables/Corn.jpg" },
+        { name: "Garlic", price: 1, imgSrc: "img/ingredients/Vegetables/Garlic.jpg" },
+        { name: "Jalapeño", price: 2, imgSrc: "img/ingredients/Vegetables/Jalapeño.jpg" },
+        { name: "Mushrooms", price: 3, imgSrc: "img/ingredients/Vegetables/Mushrooms.jpg" },
+        { name: "Mussels", price: 4, imgSrc: "img/ingredients/Vegetables/Mussels.jpg" },
+        { name: "Olives", price: 2, imgSrc: "img/ingredients/Vegetables/Olives.jpg" },
+        { name: "Onions", price: 2, imgSrc: "img/ingredients/Vegetables/Onions.jpg" },
+        { name: "Peppers", price: 2, imgSrc: "img/ingredients/Vegetables/Peppers.jpg" },
+        { name: "Spinach", price: 1, imgSrc: "img/ingredients/Vegetables/Spinach.jpg" },
+        { name: "Tomato", price: 2, imgSrc: "img/ingredients/Vegetables/tomato.jpg" }
     ]
 };
 
